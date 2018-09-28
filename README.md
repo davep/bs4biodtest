@@ -11,7 +11,7 @@ terms of their relative horizontal positions):
 
 I'm finding that having Bootstrap 4.1 included causes this to happen:
 
-![](bad-buttons.png)
+![](borked-buttons.png)
 
 It's not fully clear to me what the issue is right now. While Bootstrap has
 dropped the `pull-right` class (providing `float-right` instead, as I
